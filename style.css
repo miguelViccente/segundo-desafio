@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(0, 75, 150)
+}
+#texto{
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: bisque;
+}
+#testando{
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
